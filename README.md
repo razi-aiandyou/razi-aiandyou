@@ -36,9 +36,6 @@
   <a href="https://github.com/razi-aiandyou">
     <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=razi-aiandyou&layout=compact&theme=radical" alt="Top Languages"/>
   </a>
-  <a href="https://github.com/razi-aiandyou">
-    <img height="150" src="https://metrics.lecoq.io/razi-aiandyou/loco?template=classic&precision=0" alt="Lines of Code"/>
-  </a>
 </p>
 
 ---
